@@ -17,3 +17,21 @@ His current research interests include recommender systems, user modeling, natur
 - **Yang Yu**, Fangzhao Wu, Chuhan Wu, Jingwei Yi, Qi Liu. Tiny-NewsRec: Effective and Efficient PLM-based News Recommendation. In *EMNLP*, 2022. [[Paper](https://arxiv.org/abs/2112.00944)] [[Code](https://github.com/yflyl613/Tiny-NewsRec/)] [[Poster](http://home.ustc.edu.cn/~yflyl613/files/EMNLP2022-Poster.pdf)]
 - Tao Qi, Fangzhao Wu, Chuhan Wu, Peiru Yang, **Yang Yu**, Xing Xie, Yongfeng Huang. HieRec: Hierarchical User Interest Modeling for Personalized News Recommendation. In *ACL-IJCNLP*, 2021. [[Paper](https://aclanthology.org/2021.acl-long.423/)]
 - Chuhan Wu, Fangzhao Wu, **Yang Yu**, Tao Qi, Yongfeng Huang, Qi Liu. NewsBERT: Distilling Pre-trained Language Model for Intelligent News Application. In *Findings of EMNLP*, 2021. [[Paper](https://aclanthology.org/2021.findings-emnlp.280/)]
+
+# Education
+- **2021.09-2024.06&nbsp;&nbsp;&nbsp;&nbsp;M.S. in Computer Science and Technology** (Expected)\\
+  University of Science and Technology of China
+- **2017.09-2021.06&nbsp;&nbsp;&nbsp;&nbsp;B.E. in Computer Science and Technology**\\
+  University of Science and Technology of China
+
+# Experience
+- **2020.09-2021.05&nbsp;&nbsp;&nbsp;&nbsp;Reserach Intern, Microsoft Research Asia**\\
+  Social Computing Group. Mentor: [Dr. Fangzhao Wu](https://www.microsoft.com/en-us/research/people/fangzwu/).
+- **2020.03-2020.12&nbsp;&nbsp;&nbsp;&nbsp;Joint Research Program, Huawei**\\
+  Compression of Generative Models.
+
+# Honors and Awards
+- 2022.12&nbsp;&nbsp;&nbsp;&nbsp;Huawei Scholarship, University of Science and Technology of China
+- 2021.05&nbsp;&nbsp;&nbsp;&nbsp;"Stars of Tomorrow" Award, Microsoft Research Asia
+- 2020.12&nbsp;&nbsp;&nbsp;&nbsp;China National Scholarship
+- 2019.12&nbsp;&nbsp;&nbsp;&nbsp;Huawei Scholarship, University of Science and Technology of China
