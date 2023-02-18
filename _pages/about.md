@@ -19,15 +19,16 @@ His current research interests include recommender systems, user modeling, natur
 - Chuhan Wu, Fangzhao Wu, **Yang Yu**, Tao Qi, Yongfeng Huang, Qi Liu. NewsBERT: Distilling Pre-trained Language Model for Intelligent News Application. In *Findings of EMNLP*, 2021. [[Paper](https://aclanthology.org/2021.findings-emnlp.280/)]
 
 # Education
-- **2021.09-2024.06&nbsp;&nbsp;&nbsp;&nbsp;M.S. in Computer Science and Technology** (Expected)\\
+- **2021.09 - Present&nbsp;&nbsp;&nbsp;&nbsp;M.S. in Computer Science and Technology**\\
   University of Science and Technology of China
-- **2017.09-2021.06&nbsp;&nbsp;&nbsp;&nbsp;B.E. in Computer Science and Technology**\\
+- **2017.09 - 2021.06&nbsp;&nbsp;&nbsp;&nbsp;B.E. in Computer Science and Technology**\\
   University of Science and Technology of China
 
 # Experience
-- **2020.09-2021.05&nbsp;&nbsp;&nbsp;&nbsp;Reserach Intern, Microsoft Research Asia**\\
+- **2023.02 - Present&nbsp;&nbsp;&nbsp;&nbsp;Research Intern, OPPO Research Institute**
+- **2020.09 - 2021.05&nbsp;&nbsp;&nbsp;&nbsp;Research Intern, Microsoft Research Asia**\\
   Social Computing Group. Mentor: [Dr. Fangzhao Wu](https://www.microsoft.com/en-us/research/people/fangzwu/).
-- **2020.03-2020.12&nbsp;&nbsp;&nbsp;&nbsp;Joint Research Program, Huawei**\\
+- **2020.03 - 2020.12&nbsp;&nbsp;&nbsp;&nbsp;Joint Research Program, Huawei**\\
   Compression of Generative Models.
 
 # Honors and Awards
