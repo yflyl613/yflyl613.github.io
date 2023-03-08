@@ -25,11 +25,14 @@ His current research interests include recommender systems, user modeling, natur
   University of Science and Technology of China
 
 # Experience
-- **2023.02 - Present&nbsp;&nbsp;&nbsp;&nbsp;Research Intern, OPPO Research Institute**
+- **2023.02 - Present&nbsp;&nbsp;&nbsp;&nbsp;Research Intern, OPPO Research Institute**\\
+  Research on user modeling pre-training.
 - **2020.09 - 2021.05&nbsp;&nbsp;&nbsp;&nbsp;Research Intern, Microsoft Research Asia**\\
-  Social Computing Group. Mentor: [Dr. Fangzhao Wu](https://www.microsoft.com/en-us/research/people/fangzwu/).
+  Social Computing Group. Mentor: [Dr. Fangzhao Wu](https://www.microsoft.com/en-us/research/people/fangzwu/).\\
+  Implement news recommendation models for MSN online services.\\
+  Research on effective and efficient PLM-based news recommendation.
 - **2020.03 - 2020.12&nbsp;&nbsp;&nbsp;&nbsp;Joint Research Program, Huawei**\\
-  Compression of Generative Models.
+  Research on the compression of generative models.
 
 # Honors and Awards
 - 2022.12&nbsp;&nbsp;&nbsp;&nbsp;Huawei Scholarship, University of Science and Technology of China
