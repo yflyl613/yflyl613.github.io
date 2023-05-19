@@ -58,9 +58,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google" # false (default), "google", "google-universal", "custom"
-  google:
-    tracking_id          :  "G-6TZZYHYT22"
+  provider               :  false # false (default), "google", "google-universal", "custom"
 
 
 # Site Author
@@ -88,6 +86,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  cv               : "http://home.ustc.edu.cn/~yflyl613/files/CV_YangYu.pdf"
 
 
 # Reading Files

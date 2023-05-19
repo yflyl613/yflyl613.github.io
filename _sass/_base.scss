@@ -1,6 +1,52 @@
 /* ==========================================================================
    BASE ELEMENTS
    ========================================================================== */
+
+.header {
+  margin: 1em 0 0.5em;
+  display: inline-block;
+}
+
+.subheader {
+  margin: 0.5em 0;
+  font-size: 18px;
+  line-height: 1.5;
+  display: block;
+}
+
+.date {
+  float: right;
+  // text-align:right;
+  // align-self: flex-end;
+  margin-left: 0.5em;
+  font-weight: normal;
+  // display: inline-block;
+}
+
+.my_ul {
+  margin-block-start: 0;
+  margin-block-end: 0;
+  padding-inline-start: 25px;
+  // text-align: justify;
+  // text-justify: inter-word;
+  // word-wrap: break-word;
+}
+
+.my_p {
+  margin-bottom: 0 !important;
+  // text-align: justify;
+  // text-justify: inter-word;
+  // word-break: normal;
+}
+
+.list_p {
+  margin-bottom: 0.5em !important;
+}
+
+.my_span {
+  font-weight: normal;
+}
+
 html {
   /* sticky footer fix */
   position: relative;
