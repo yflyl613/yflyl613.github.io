@@ -65,7 +65,7 @@
         <li><a href="https://bitbucket.org/{{ author.bitbucket }}"><i class="fab fa-fw fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
       {% endif %}
       {% if author.github %}
-        <li><i class="fab fa-fw fa-github" aria-hidden="true"></i> <a href="https://github.com/{{ author.github }}">Github</a></li>
+        <li><i class="fab fa-fw fa-github" aria-hidden="true"></i> <a target="_blank" href="https://github.com/{{ author.github }}">Github</a></li>
       {% endif %}
       {% if author.stackoverflow %}
         <li><a href="https://www.stackoverflow.com/users/{{ author.stackoverflow }}"><i class="fab fa-fw fa-stack-overflow" aria-hidden="true"></i> Stackoverflow</a></li>
@@ -104,7 +104,7 @@
         <li><a href="https://vine.co/u/{{ author.vine }}"><i class="fab fa-fw fa-vine" aria-hidden="true"></i> Vine</a></li>
       {% endif %}
       {% if author.googlescholar %}
-        <li><i class="fas fa-fw fa-graduation-cap"></i> <a href="{{ author.googlescholar }}">Google Scholar</a></li>
+        <li><i class="fas fa-fw fa-graduation-cap"></i> <a target="_blank" href="{{ author.googlescholar }}">Google Scholar</a></li>
       {% endif %}
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed-square ai-fw"></i> PubMed</a></li>
@@ -116,7 +116,7 @@
         <li><a href="{{ author.impactstory }}"><i class="ai ai-impactstory ai-fw"></i> Impactstory</a></li>
       {% endif %}
       {% if author.cv %}
-        <li><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> <a href="{{ author.cv }}">CV</a></li>
+        <li><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> <a target="_blank" href="{{ author.cv }}">CV</a></li>
       {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>

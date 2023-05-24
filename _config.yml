@@ -65,7 +65,7 @@ analytics:
 author:
   name             : "Yang Yu"
   avatar           : "avatar.jpg"
-  bio              : "Postgraduate, CS, USTC"
+  bio              : "CS Graduate @ USTC"
   location         : "Hefei, Anhui, China"
   employer         :
   pubmed           :
@@ -86,7 +86,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  cv               : "http://home.ustc.edu.cn/~yflyl613/files/CV_YangYu.pdf"
+  cv               : "/assets/files/CV_YangYu.pdf"
 
 
 # Reading Files
