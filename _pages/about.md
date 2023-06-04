@@ -44,7 +44,7 @@ redirect_from:
 <ul class='my_ul'>
 <li>Anhui Province Key Laboratory of Big Data Analysis and Application (<a target="_blank" href='https://bigdata.ustc.edu.cn/'>BDAA</a>). Advisor: <a target="_blank" href='http://staff.ustc.edu.cn/~qiliuql/'>Prof. Qi Liu</a>.</li>
 <li>Working on recommender systems, federated learning, and natural language processing.</li>
-<li>Designed an effective clustering-based untargeted attack method against federated recommendation systems and a general contrastive learning-based defense mechanism (AAAI'23).</li>
+<li>Designed an effective clustering-based untargeted attack method against federated recommendation systems and a general uniformity-based defense mechanism (AAAI'23).</li>
 </ul>
 
 <h3 class='subheader'><span class='date'>2023.02 - Present</span><strong>Research Intern</strong><span class='my_span'>, OPPO Research Institute</span></h3>
@@ -57,7 +57,7 @@ redirect_from:
 <ul class='my_ul'>
 <li>Social Computing Group. Mentor: <a target="_blank" href='https://www.microsoft.com/en-us/research/people/fangzwu/'>Dr. Fangzhao Wu</a> and <a target="_blank" href='https://www.microsoft.com/en-us/research/people/xingx/'>Dr. Xing Xie</a>.</li>
 <li>Mainly worked on news understanding and recommendation.</li>
-<li>Developed multilingual news recommendation systems for <a target="_blank" href='https://www.msn.com/news/'>MSN</a> online services.</li>
+<li>Developed multilingual news recommendation models for <a target="_blank" href='https://www.msn.com/news/'>MSN</a> online services.</li>
 <li>Designed a self-supervised domain-specific post-training method and a two-stage knowledge distillation framework for effective and efficient PLM-based news recommendation (EMNLP'22).</li>
 </ul>
 
@@ -71,7 +71,7 @@ redirect_from:
 <h1 class='header'>Projects</h1>
 <h3 class='subheader'><span class='date'>2021.05 - 2023.02</span><a target="_blank" href='https://luna.bdaa.pro/'>Intelligent Educational Knowledge Graph (LUNA)</a></h3>
 <ul class='my_ul'>
-<li>Aiming to analyze massive multi-modal educational resources and provide intelligent education services.</li>
+<li>Aiming to gather, standardize, and analyze massive multi-modal educational resources on the Internet and provide various intelligent education services for students and teachers.</li>
 <li>In charge of the educational resources search system and the test paper analysis service.</li>
 <li>Empowered the recall and ranking pipeline of the search system with pre-trained language models.</li>
 </ul>
@@ -83,7 +83,7 @@ redirect_from:
 
 <h3 class='subheader'><span class='date'>2021.07</span><a target="_blank" href='https://github.com/yflyl613/NewsRecommendation/'>News Recommendation</a></h3>
 <ul class='my_ul'>
-<li>Implemented several deep learning-based news recommendation methods (e.g., NAML, NRMS) in PyTorch, with the support of multi-GPU training and testing.</li>
+<li>Implemented several deep learning-based news recommendation methods (e.g., NAML, NRMS) in PyTorch, with the support of multi-GPU training and evaluation.</li>
 </ul>
 
 <h1 class='header'>Honors and Awards</h1>
