@@ -90,4 +90,4 @@ redirect_from:
 <p class='list_p'><span class='date'>2019, 2022</span><strong>Huawei Scholarship</strong> (Top 2%), University of Science and Technology of China</p>
 <p class='list_p'><span class='date'>2021, 2022</span><strong>First Prize Academic Scholarship</strong>, University of Science and Technology of China</p>
 <p class='list_p'><span class='date'>2021</span><strong>"Stars of Tomorrow" Internship Award of Excellence</strong>, Microsoft Research Asia</p>
-<p class='list_p'><span class='date'>2020</span><strong>China National Scholarship</strong> (Top 1%), Ministry of Education of the People’s Republic of China</p>
+<p class='list_p'><span class='date'>2020</span><strong>China National Scholarship</strong> (Top 0.2% nationwide), Ministry of Education of the People’s Republic of China</p>

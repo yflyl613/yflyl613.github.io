@@ -118,6 +118,9 @@
       {% if author.cv %}
         <li><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> <a target="_blank" href="{{ author.cv }}">CV</a></li>
       {% endif %}
+      {% if author.cv_zh %}
+        <li><i class="fas fa-fw fa-file-pdf" aria-hidden="true"></i> <a target="_blank" href="{{ author.cv_zh }}">CV (中文)</a></li>
+      {% endif %}
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
 {% endif %}
