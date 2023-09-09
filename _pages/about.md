@@ -12,12 +12,12 @@ redirect_from:
 
 <h1 class='header'>Publications</h1>
 <ul class='my_ul'>
-<li><strong>Yang Yu</strong>, Qi Liu, Likang Wu, Runlong Yu, Sanshi Lei Yu, Zaixi Zhang. Untargeted Attack against Federated Recommendation Systems via Poisonous Item Embeddings and the Defense. In <em>AAAI</em>, 2023. [<a target="_blank" href='https://arxiv.org/abs/2212.05399'>Paper</a>] [<a target="_blank" href='https://github.com/yflyl613/FedRec/'>Code</a>] [<a target="_blank" href='/assets/files/AAAI2023-Poster.pdf'>Poster</a>] [<a target="_blank" href='/assets/files/AAAI2023-Slides.pdf'>Slides</a>] [<a target="_blank" href='http://home.ustc.edu.cn/~yflyl613/files/AAAI2023-Video.mp4'>Video</a>]</li>
-<li><strong>Yang Yu</strong>, Fangzhao Wu, Chuhan Wu, Jingwei Yi, Qi Liu. Tiny-NewsRec: Effective and Efficient PLM-based News Recommendation. In <em>EMNLP</em>, 2022. [<a target="_blank" href='https://aclanthology.org/2022.emnlp-main.368/'>Paper</a>] [<a target="_blank" href='https://github.com/yflyl613/Tiny-NewsRec/'>Code</a>] [<a target="_blank" href='/assets/files/EMNLP2022-Poster.pdf'>Poster</a>]</li>
-<li>Tao Qi, Fangzhao Wu, Chuhan Wu, Peiru Yang, <strong>Yang Yu</strong>, Xing Xie, Yongfeng Huang. HieRec: Hierarchical User Interest Modeling for Personalized News Recommendation. In <em>ACL-IJCNLP</em>, 2021. [<a target="_blank" href='https://aclanthology.org/2021.acl-long.423/'>Paper</a>]</li>
-<li>Chuhan Wu, Fangzhao Wu, <strong>Yang Yu</strong>, Tao Qi, Yongfeng Huang, Qi Liu. NewsBERT: Distilling Pre-trained Language Model for Intelligent News Application. In <em>Findings of EMNLP</em>, 2021. [<a target="_blank" href='https://aclanthology.org/2021.findings-emnlp.280/'>Paper</a>]</li>
-<li>Jingwei Yi, Fangzhao Wu, Bin Zhu, <strong>Yang Yu</strong>, Chao Zhang, Guangzhong Sun, Xing Xie. UA-FedRec: Untargeted Attack on Federated News Recommendation. <em>arXiv preprint</em>, 2022. [<a target="_blank" href='https://arxiv.org/abs/2202.06701/'>Paper</a>]</li>
-<li>Chuhan Wu, Fangzhao Wu, <strong>Yang Yu</strong>, Tao Qi, Yongfeng Huang, Xing Xie. UserBERT: Contrastive User Model Pre-training. <em>arXiv preprint</em>, 2021. [<a target="_blank" href='https://arxiv.org/abs/2109.01274/'>Paper</a>]</li>
+<li><strong>Yang Yu</strong>, Qi Liu, Likang Wu, Runlong Yu, Sanshi Lei Yu, and Zaixi Zhang. Untargeted Attack against Federated Recommendation Systems via Poisonous Item Embeddings and the Defense. In <em>AAAI</em>, 2023. [<a target="_blank" href='https://arxiv.org/abs/2212.05399'>Paper</a>] [<a target="_blank" href='https://github.com/yflyl613/FedRec/'>Code</a>] [<a target="_blank" href='/assets/files/AAAI2023-Poster.pdf'>Poster</a>] [<a target="_blank" href='/assets/files/AAAI2023-Slides.pdf'>Slides</a>] [<a target="_blank" href='http://home.ustc.edu.cn/~yflyl613/files/AAAI2023-Video.mp4'>Video</a>]</li>
+<li><strong>Yang Yu</strong>, Fangzhao Wu, Chuhan Wu, Jingwei Yi, and Qi Liu. Tiny-NewsRec: Effective and Efficient PLM-based News Recommendation. In <em>EMNLP</em>, 2022. [<a target="_blank" href='https://aclanthology.org/2022.emnlp-main.368/'>Paper</a>] [<a target="_blank" href='https://github.com/yflyl613/Tiny-NewsRec/'>Code</a>] [<a target="_blank" href='/assets/files/EMNLP2022-Poster.pdf'>Poster</a>]</li>
+<li>Sanshi Lei Yu, Qi Liu, Fei Wang, <strong>Yang Yu</strong>, and Enhong Chen. Federated News Recommendation with Fine-grained Interpolation and Dynamic Clustering. In <em>CIKM</em>, 2023. [<a target='_blank' href='https://storage.yusanshi.com/paper/FINDING.pdf'>Paper</a>] [<a target='_blank' href='https://github.com/yusanshi/FINDING'>Code</a>]</li>
+<li>Chao Zhang, Fangzhao Wu, Jingwei Yi, Derong Xu, <strong>Yang Yu</strong>, Jindong Wang, Yidong Wang, Tong Xu, Xing Xie, and Enhong Chen. Non-IID always Bad? Semi-Supervised Heterogeneous Federated Learning with Local Knowledge Enhancement. In <em>CIKM</em>, 2023.</li>
+<li>Tao Qi, Fangzhao Wu, Chuhan Wu, Peiru Yang, <strong>Yang Yu</strong>, Xing Xie, and Yongfeng Huang. HieRec: Hierarchical User Interest Modeling for Personalized News Recommendation. In <em>ACL-IJCNLP</em>, 2021. [<a target="_blank" href='https://aclanthology.org/2021.acl-long.423/'>Paper</a>]</li>
+<li>Chuhan Wu, Fangzhao Wu, <strong>Yang Yu</strong>, Tao Qi, Yongfeng Huang, and Qi Liu. NewsBERT: Distilling Pre-trained Language Model for Intelligent News Application. In <em>Findings of EMNLP</em>, 2021. [<a target="_blank" href='https://aclanthology.org/2021.findings-emnlp.280/'>Paper</a>]</li>
 </ul>
 
 
@@ -47,7 +47,7 @@ redirect_from:
 <li>Designed an effective clustering-based untargeted attack method against federated recommendation systems and a general uniformity-based defense mechanism (AAAI'23).</li>
 </ul>
 
-<h3 class='subheader'><span class='date'>2023.02 - Present</span><strong>Research Intern</strong><span class='my_span'>, OPPO Research Institute</span></h3>
+<h3 class='subheader'><span class='date'>2023.02 - 2023.08</span><strong>Research Intern</strong><span class='my_span'>, OPPO Research Institute</span></h3>
 <ul class='my_ul'>
 <li>Working on empowering various user-oriented services (e.g., user profiling, personalized recommendation) by pre-training the user model with users’ app-related behaviors.</li>
 <li>Designed a new user model pre-training method (the corresponding work is under review).</li>
