@@ -51,7 +51,7 @@ redirect_from:
 <h3 class='subheader'><span class='date'>2023.02 - 2023.08</span><strong>Research Intern</strong><span class='my_span'>, OPPO Research Institute</span></h3>
 <ul class='my_ul'>
 <li>Working on empowering various user-oriented services (e.g., user profiling, personalized recommendation) by pre-training the user model with users’ app-related behaviors.</li>
-<li>Designed a new user model pre-training method (the corresponding work is under review).</li>
+<li>Designed a new self-supervised ranking task for user model pre-training (NeurIPS'23).</li>
 </ul>
 
 <h3 class='subheader'><span class='date'>2020.09 - 2021.05</span><strong>Research Intern</strong><span class='my_span'>, Microsoft Research Asia</span></h3>
@@ -88,7 +88,7 @@ redirect_from:
 </ul>
 
 <h1 class='header'>Honors and Awards</h1>
+<p class='list_p'><span class='date'>2020, 2023</span><strong>China National Scholarship</strong> (Top 0.2% nationwide), Ministry of Education of the People’s Republic of China</p>
 <p class='list_p'><span class='date'>2019, 2022</span><strong>Huawei Scholarship</strong> (Top 2%), University of Science and Technology of China</p>
-<p class='list_p'><span class='date'>2021, 2022</span><strong>First Prize Academic Scholarship</strong>, University of Science and Technology of China</p>
+<p class='list_p'><span class='date'>2021, 2022, 2023</span><strong>First Prize Academic Scholarship</strong>, University of Science and Technology of China</p>
 <p class='list_p'><span class='date'>2021</span><strong>"Stars of Tomorrow" Internship Award of Excellence</strong>, Microsoft Research Asia</p>
-<p class='list_p'><span class='date'>2020</span><strong>China National Scholarship</strong> (Top 0.2% nationwide), Ministry of Education of the People’s Republic of China</p>
