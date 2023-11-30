@@ -47,7 +47,11 @@
   white-space: nowrap;
 
   &--lg {
-    padding-right: 2em;
     font-weight: 700;
+    display: block;
+    margin: 0;
+    padding: 0.5rem 0;
+    color: $masthead-link-color;
+    text-decoration: none;
   }
 }
