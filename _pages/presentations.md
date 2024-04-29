@@ -13,3 +13,5 @@ author_profile: true
 - [2023-10-23] [Model Pre-training for Recommendation Systems](/assets/files/2023-10-23-Model_Pre-training_for_Recommendation_Systems.pdf)
 
 - [2023-11-30] [An Introduction of LLM-Powered Autonomous Agents](/assets/files/2023-11-30-An_Introduction_of_LLM-Powered_Autonomous_Agents.pdf)
+
+- [2024-04-29] [校招流程介绍与经验分享](/assets/files/2024-04-29-校招流程介绍与经验分享.pdf)
